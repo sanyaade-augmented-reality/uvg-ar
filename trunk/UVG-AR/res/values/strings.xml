@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UVG AR</string>
+    <string name="app_description">Realidad Aumentada en la Universidad del Valle</string>
+    <string name="activity_splash_title">UVG AR</string>
+    <string name="activity_splash_subtitle">Versión Beta</string>
+    <string name="about_title">Acerca de la aplicación:</string>
+    <string name="about_text">Esta aplicación te brinda una nueva perspectiva del entorno en el que te encuentras. Sé parte del nuevo movimiento. &lt;br />&lt;br />Para poder vivir la experiencia:&lt;br />1. Carga la aplicación y presiona "Empezar con la experiencia" &lt;br />&lt;br />2. Apunta con la cámara cualquier objeto dentro de la UVG&lt;br />&lt;br />3. Vive la experiencia de UVG Realidad Aumentada&lt;br />&lt;br />© 2010 &#8211; 2013 UVG-AR.&lt;br />Para mas información ver: &lt;a href="http://streaming.uvg.edu.gt/mediawiki/index.php?title=Proyecto_Chahebabo">streaming.uvg.edu.gt/mediawiki/index.php?title=Proyecto_Chahebabo &lt;/a>&lt;&lt;br />&lt;br /></string>
+    <string name="button_start">Empezar con la experiencia</string>
+    <string name="button_realidadaumentada">Realidad Aumentada</string>
+    <string name="content_desc_vuforia_logo">Vuforia Logo</string>
+    <string name="content_desc_vuforia_background">Vuforia Background</string>
+    <string name="menu_flash_on">Encender el Flash</string>
+    <string name="menu_flash_off">Apagar el Flash</string>
+    <string name="menu_contAutofocus_on">Cont. Autofocus On</string>
+    <string name="menu_contAutofocus_off">Cont. Autofocus Off</string>
+    <string name="menu_switch_to_tarmac">Ver Ubicación GPS</string>
+    <string name="menu_switch_to_stone_chips">Ver Ubicación GPS</string>
+    <string name="menu_camera_title">Opciones</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Current Location in Google Map</string>
+
+</resources>
