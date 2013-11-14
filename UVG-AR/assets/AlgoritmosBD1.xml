@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Dispensadores2" size="2000.000000 2666.666748" />
+    <ImageTarget name="Edificio__A" size="2000.000000 2666.666748" />
+    <ImageTarget name="Edificio_II" size="2000.000000 2666.666748" />
+    <ImageTarget name="EdificioB" size="2000.000000 1500.000000" />
+    <ImageTarget name="Directorio_Edificio_F" size="2000.000000 2666.666748" />
+    <ImageTarget name="Edificios" size="2000.000000 2666.666748" />
+    <ImageTarget name="Directorio_EdificioA_3nivel" size="2000.000000 2666.666748" />
+    <ImageTarget name="EdificioF" size="500.000000 375.000000" />
+    <ImageTarget name="Decanaturas" size="1500.000000 2000.000000" />
+    <ImageTarget name="Directorio_EdificioC1" size="2000.000000 1500.000000" />
+    <ImageTarget name="Biblioteca_" size="2000.000000 1500.000000" />
+    <ImageTarget name="Prohibido_Fumar" size="2000.000000 1500.000000" />
+    <ImageTarget name="SalonEstudios" size="2000.000000 1500.000000" />
+    <ImageTarget name="AsociacionEstudiantes" size="1500.000000 2000.000000" />
+    <ImageTarget name="Directorio_Edificio_Ca" size="2000.000000 1500.000000" />
+    <ImageTarget name="MapaCampus" size="2000.000000 2666.666748" />
+    <ImageTarget name="BibliotecaUVG" size="2000.000000 1500.000000" />
+    <ImageTarget name="Directorio_EdificioC1_2nivel" size="2000.000000 1500.000000" />
+    <ImageTarget name="Biblioteca" size="2000.000000 1500.000000" />
+    <ImageTarget name="EdificioA" size="2000.000000 2666.666748" />
+    <ImageTarget name="Extintor_Emergencia" size="500.000000 666.666687" />
+    <ImageTarget name="SecretariaGeneral" size="2000.000000 2666.666748" />
+    <ImageTarget name="Enfermeria" size="2000.000000 1500.800049" />
+    <ImageTarget name="Oficina_Deportes" size="2000.000000 2666.666748" />
+    <ImageTarget name="Directorio_EdificioA_2nivel" size="2000.000000 2666.666748" />
+    <ImageTarget name="Bagel_Bros" size="2000.000000 1500.000000" />
+    <ImageTarget name="Dispensadoras" size="2000.000000 2666.666748" />
+    <ImageTarget name="Ruta_Evacuacion" size="2000.000000 2666.666748" />
+    <ImageTarget name="Fotocopiadora" size="1500.000000 2000.000000" />
+    <ImageTarget name="Banco_Internacional" size="2000.000000 1500.000000" />
+    <ImageTarget name="Silencio" size="2000.000000 1500.000000" />
+    <ImageTarget name="RutaEvacuacion" size="1500.000000 1125.000000" />
+    <ImageTarget name="Edicicio_A" size="200.000000 266.666656" />
+    <ImageTarget name="Mapa_Campus" size="2000.000000 1500.000000" />
+    <ImageTarget name="Directorio_EdificioF_2nivel" size="1500.000000 2000.000000" />
+    <ImageTarget name="Ruta_Evacuacion_" size="200.000000 150.000000" />
+    <ImageTarget name="Directorio_EdificioCa_2nivel" size="2000.000000 1500.000000" />
+    <ImageTarget name="Prueba" size="720.000000 960.000000" />
+    <ImageTarget name="DesechosElectronicos" size="2000.000000 2666.666748" />
+    <ImageTarget name="A_101" size="2000.000000 2666.666748" />
+    <ImageTarget name="Edificio___A" size="2000.000000 2666.666748" />
+    <ImageTarget name="Excusados" size="2000.000000 1500.000000" />
+    <ImageTarget name="Go_Green" size="2000.000000 1500.000000" />
+    <ImageTarget name="A101" size="2000.000000 2666.666748" />
+    <ImageTarget name="Directorio_EdificioF_3nivel" size="1500.000000 2000.000000" />
+    <ImageTarget name="Directorio_EdificioJ_2nivel" size="2000.000000 2666.666748" />
+    <ImageTarget name="Edificio_F_G_H" size="2000.000000 2666.666748" />
+    <ImageTarget name="Directorio_EdificioJ_3nivel" size="2000.000000 1500.000000" />
+  </Tracking>
+</QCARConfig>
