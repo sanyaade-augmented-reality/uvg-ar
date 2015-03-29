@@ -1,0 +1,1 @@
+This project shows a example of augmented realitity applied in Del Valle University of Guatemala.
